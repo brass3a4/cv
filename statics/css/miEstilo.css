@@ -1,0 +1,43 @@
+#ladoIzquierdo{
+	//background-color: #C0C0C0;
+	background-color: #F0F0F0;
+	text-align: right;
+}
+#ladoDerecho{
+	//background-color: #F0F0F0;	
+	text-align: justify;
+}
+#espacioFoto{
+	margin-top: 20%;
+}
+#contacto{
+	text-align: left;
+}
+.espacioSuperior{
+	margin-top: 10%;
+}
+#seccion{
+	background-color: #66FFFF;
+	padding: 5px 5px 5px 15px;
+	color: #fff;
+	font-size: 25px;
+	text-shadow: 2px 1px 2px rgba(150, 150, 150, 1);
+}
+#seccion2{
+	background-color: #F5FA52;
+	padding: 5px 5px 5px 15px;
+	color: #fff;
+	font-size: 25px;
+	text-shadow: 2px 1px 2px rgba(150, 150, 150, 1);
+}
+#seccion3{
+	background-color: #FF66CC;
+	padding: 5px 5px 5px 15px;
+	color: #fff;
+	font-size: 25px;
+	text-shadow: 2px 1px 2px rgba(150, 150, 150, 1);
+}
+#punteadas{
+	font-size: 60px;
+	color: #D0D0D0;
+}
